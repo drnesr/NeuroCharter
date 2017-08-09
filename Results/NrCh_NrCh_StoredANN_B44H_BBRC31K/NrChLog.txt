@@ -1,0 +1,20 @@
+#####################################################################
+############        NeuroCharter 1.0.B16-52         #################
+#####################################################################
+########      Dr. Mohammad Elnesr & Dr. A.A. Alazba        ##########
+#####################################################################
+
+Analysis started at           : 2016-11-27 12:31:40
+Input network file            : NrCh_StoredANN_B44H.nsr
+Output directory name         : NrCh_NrCh_StoredANN_B44H_BBRC31K
+Current path                  : C:\SimpleANN\NeuroCharter\Results\NrCh_NrCh_StoredANN_B44H_BBRC31K
+
+All the variables are included: True
+Number of processed data lines: 32
+Outputs saved in file         : C:\SimpleANN\NeuroCharter\Results\NrCh_NrCh_StoredANN_B44H_BBRC31K\NrCH_QueryDataC31K_Results.csv
+Analysis ended at             : 2016-11-27 12:31:40
+
+Elapsed time throughout the study:  00:00:00.04
+
+
+***Done***
